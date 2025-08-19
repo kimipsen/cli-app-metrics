@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: host-app",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/src/host-app/host-app.csproj",
+            "launchConfigurationId": "TargetFramework=;host-app"
+        }
+    ]
+}

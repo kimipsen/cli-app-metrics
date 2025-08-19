@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/host-app/host-app.csproj" />
+    <Project Path="src/shared-logic/shared-logic.csproj" />
+  </Folder>
+</Solution>
