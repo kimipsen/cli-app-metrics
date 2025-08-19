@@ -6,6 +6,13 @@
             "request": "launch",
             "projectPath": "${workspaceFolder}/src/host-app/host-app.csproj",
             "launchConfigurationId": "TargetFramework=;host-app"
+        },
+        {
+            "name": "C#: no-host-app",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/src/no-host-app/no-host-app.csproj",
+            "launchConfigurationId": "TargetFramework=;no-host-app"
         }
     ]
 }
